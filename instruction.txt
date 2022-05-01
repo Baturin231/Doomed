@@ -1,0 +1,5 @@
+Begin:
+
+g++ -lm -o output name.cpp
+
+./output
