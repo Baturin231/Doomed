@@ -1,0 +1,54 @@
+from random import*
+from math import*
+
+
+		Pascal		Python
+Числа:
+		shortint 
+		byte 
+		smallint 
+		word 
+		integer 	int;
+		int64 
+		longword 
+		uint64
+		BigInteger;
+
+		real		float;
+
+Символы:
+		char		bytes;
+		string		str;
+		boolean		bool;
+
+None:
+		var			NoneType;
+
+Константа:
+		-const		(просто верхний регистр всей переменной)
+
+Операции:
+		:= 			=
+		div			//
+		mod			%
+!		**			**
+!		+			+
+!		-			-
+!		*			*
+
+Функции:!!!
+		Abs(x)		abs(x);
+		Ceil(x)		ceil(x);
+		Floor(x)	floor(x);
+		-Frac(x)		x%1;
+		Max(x)		max(x);
+		Min(x)		min(x);
+		Print(x)	print(x);
+		Round(x)	round(x);
+		-Random(m)	random.randint(m);
+		Round(x,n)	round(x,n);
+		Sqrt(x)		sqrt(x);
+		Sign(x)		sign(x);
+		Sin(x)		sin(x);
+		-Sqr(x)		sqrt(x);
+		Trunk(x)	trunk(x);

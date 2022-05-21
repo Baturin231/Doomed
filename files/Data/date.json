@@ -1,0 +1,18 @@
+{
+	"shortint": "int",
+	"byte": "int",
+	"smallint": "int",
+	"word": "int",
+	"integer": "int",
+	"int64": "int",
+	"longword": "int",
+	"uint64": "int",
+	"BigInteger": "int",
+	"real": "float",
+	"char": "bytes",
+	"string": "str",
+	"boolean": "bool",
+	"var": "NoneType",
+	":=": "=",
+	"div": "//"
+}
